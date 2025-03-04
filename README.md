@@ -39,9 +39,16 @@ The App has the following screens:
 
 ## Screenshots
 
-![Home Screen](assets/paradise1.jpg)   ![Menu Screen](assets/paradise2.jpg)
+![Home Screen](assets/paradise1.jpg)   
 
-![Order Screen](assets/paradise3.jpg)  ![Profile Screen](assets/paradise4.jpg)
+
+![Menu Screen](assets/paradise2.jpg)
+
+
+![Order Screen](assets/paradise3.jpg)  
+
+
+![Profile Screen](assets/paradise4.jpg)
 
 ## Preview on your own device
 
